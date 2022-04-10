@@ -2,7 +2,7 @@
 <property name="sonar.host.url" value="http://localhost:9000/" />
 
 <!-- Define the Sonar properties -->
-<property name="sonar.projectKey" value="test3" />
+<property name="sonar.projectKey" value="static" />
 <property name="sonar.projectName" value="Example of SonarQube Scanner for Ant Usage" />
 <property name="sonar.projectVersion" value="1.0" />
 <property name="sonar.sources" value="src" />
